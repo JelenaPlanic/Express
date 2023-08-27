@@ -1,0 +1,30 @@
+[
+    {
+        "text": "Ko je najbolji film?",
+        "options" : ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+        "answer" : "odgovor 1",
+       "points" : "5",
+        "category" : "movies"
+    },
+    {
+        "text": "Ko je nabolji u tenisu?",
+        "options" : ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+        "answer" : "odgovor 1",
+       "points" : "10",
+        "category" : "sport"
+    },
+    {
+        "text": "Kada se odrzava utakmica Zvezda-Partizan?",
+        "options" : ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+        "answer" : "odgovor 1",
+        "points" : "15",
+        "category" : "sport"
+    },
+    {
+        "text": "Najbolji glumac svih vremena?",
+        "options" : ["odgovor 1", "odgovor 2", "odgovor 3", "odgovor 4"],
+        "answer" : "odgovor 1",
+        "points" : "25",
+        "category" : "movies"
+    }
+]
